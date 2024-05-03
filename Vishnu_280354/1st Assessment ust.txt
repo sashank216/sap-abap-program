@@ -1,0 +1,13 @@
+Name of participant: Vishnu Sashank Mandalika
+emp id: 280354
+
+package: ZVS_280354
+question paper: set1
+
+exam objects list:
+
+Q1. First Table Name: ZVIS_VBRK
+Q2. Second Table Name:  ZVIS_VBRP
+Q3.Interactive report program name: Z3RDQNS
+Q4. Function Module: ZVIS_GET_BILLING
+Q5. Database View Name: ZVIS_VIEW and db view se38 calling program: ZDb_view_vis
